@@ -28,7 +28,7 @@ void print_array(int* arr, int size)
 
 int main()
 {
-    int arr[] = {3, 1, 4, 1, 5};
+    int arr[] = {3, 1, 4, 1, 5, 9, 3, 6, 5, 3};
 
     const int max = max_element(arr, N_ELEMENTS(arr));
 
